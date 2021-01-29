@@ -1,0 +1,8 @@
+export const DELETE_PLAYER: string = "DELETE_REGULAR_PLAYER";
+export const ADD_PLAYER: string = "ADD_REGULAR_PLAYER";
+
+export const FETCH_PLAYERS_REQUEST: string = "FETCH_PLAYERS_REQUEST";
+export const FETCH_PLAYERS_SUCCESS: string = "FETCH_PLAYERS_SUCCESS";
+export const FETCH_PLAYERS_FAILURE: string = "FETCH_PLAYERS_ERROR";
+
+export const SET_SEARCH_PLAYERS = "SET_SEARCH_PLAYERS";
